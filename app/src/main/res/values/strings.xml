@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SpeedTestApp</string>
+    <string name="error_internet">There is an error with internet\n</string>
+    <string name="progress_bar_text">%s Mbps</string>
+    <string name="download_speed">Скорость загрузки</string>
+    <string name="upload_speed">Скорость отдачи</string>
+    <string name="url">Url: %1$s</string>
+    <string name="max_speed">Максимальная %1$s</string>
+    <string name="mid_speed">Средняя %1$s</string>
+    <string name="load_servers">Загружаем сервера</string>
+    <string name="test_download">Измерять скорость загрузки</string>
+    <string name="test_upload">Измерять скорость отдачи</string>
+    <string name="start_test">Старт тест</string>
+    <string name="sponsor">Провайдер: %1$s</string>
+    <string name="server_name">Имя сервера: %1$s</string>
+    <string name="server_url">Ссылка: %1$s</string>
+    <string name="swap_server">Сменить сервер</string>
+    <string name="dark_theme">Тёмная тема</string>
+    <string name="light_theme">Светлая тема</string>
+    <string name="oc_theme">Системная тема</string>
+    <string name="choose_theme">Выбрать тему</string>
+    <string name="error_message">Ошибка: %1$s</string>
+</resources>
